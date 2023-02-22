@@ -15,3 +15,18 @@ table {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+btn {
+    position: absolute;
+    top:50%;
+}
+
+b1 {background-color: green;
+}
+
+b2 {background-color: yellow;
+}
+
+b3 {
+    background-color: red;
+}
