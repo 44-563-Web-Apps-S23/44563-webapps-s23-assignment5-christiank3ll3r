@@ -21,12 +21,17 @@ btn {
     top:50%;
 }
 
-b1 {background-color: green;
-}
+/*b1 {background-color: green;
+}*/
 
 b2 {background-color: yellow;
 }
 
 b3 {
     background-color: red;
+}
+
+but {
+    background-color: green;
+    color: white;
 }
