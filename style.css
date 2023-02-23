@@ -25,14 +25,11 @@ table {
     color: white;
 }
 
-b2 {background-color: yellow;
+.b2 {background-color: yellow;
+    color: white;
 }
 
-b3 {
+.b3 {
     background-color: red;
-}
-
-but {
-    background-color: green;
     color: white;
 }
