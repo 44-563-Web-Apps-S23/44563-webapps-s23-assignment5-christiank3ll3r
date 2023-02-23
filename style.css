@@ -16,13 +16,14 @@ table {
     padding-right: 10px;
 }
 
-btn {
+.btn {
     position: absolute;
     top:50%;
 }
 
-/*b1 {background-color: green;
-}*/
+.b1 {background-color: green;
+    color: white;
+}
 
 b2 {background-color: yellow;
 }
